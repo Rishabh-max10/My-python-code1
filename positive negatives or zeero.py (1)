@@ -1,0 +1,7 @@
+x=int(input("Enter the number to check"))
+if(x>0):
+  print("the number is positive=",x)
+elif(x<0):
+  print("the number is negative=",x)
+else:
+  print("the number is zeero=",x)
